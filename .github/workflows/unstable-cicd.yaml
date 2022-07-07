@@ -46,7 +46,7 @@ on:
 jobs:
     unstable-assembly:
         name: 🧩 Unstable Assembly
-        if: github.actor != 'nutjob4life'
+        if: github.actor != 'pdsen-ci'
         runs-on: ubuntu-latest
         steps:
             -
