@@ -1,8 +1,8 @@
 # Changelog
 
-## [v1.0.0-dev](https://github.com/nutjob4life/fluffy-disco/tree/v1.0.0-dev) (2022-07-07)
+## [v1.0.0](https://github.com/nutjob4life/fluffy-disco/tree/v1.0.0) (2022-07-07)
 
-[Full Changelog](https://github.com/nutjob4life/fluffy-disco/compare/0935c82644c9a3040d89c858da05ccc9267b2f20...v1.0.0-dev)
+[Full Changelog](https://github.com/nutjob4life/fluffy-disco/compare/0935c82644c9a3040d89c858da05ccc9267b2f20...v1.0.0)
 
 
 
