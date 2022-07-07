@@ -1,0 +1,7 @@
+.git/
+.github/
+.tox/
+build/
+docs/
+tests/
+venv/
