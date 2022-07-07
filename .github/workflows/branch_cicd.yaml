@@ -58,6 +58,5 @@ jobs:
                 name: 🩺 Test Software
                 run:
                     pip install --editable '.[dev]'
-
-                    tox
+                    # Skip any further testing
                 shell: bash
